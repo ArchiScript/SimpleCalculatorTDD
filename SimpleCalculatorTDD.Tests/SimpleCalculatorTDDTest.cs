@@ -21,7 +21,7 @@ namespace SimpleCalculatorTDD.Tests
         [Fact]
         public void GetSubstract_20_Minus_14_Eq_6()
         {
-            //Arrange 
+            //Arrange   
             SimpleCalculatorTDDClass calc = new SimpleCalculatorTDDClass();
 
             //Act
